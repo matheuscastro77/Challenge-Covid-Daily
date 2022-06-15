@@ -51,6 +51,6 @@ Visual Studio Code
 ## 1 - Clonar o repositório
 	- git clone https://github.com/matheuscastro77/Challenge-Covid-Daily.git
 ## 2 - Instalar as dependências
-  - npm install      
+  	- npm install      
 ## 3 - Iniciar o projeto
 	- npm run start
