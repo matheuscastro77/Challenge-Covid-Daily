@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+<h2 align="center"> 
+	Front-end Challenge Coodesh - Covid Daily Cases
+</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Projeto Individual
 
-## Available Scripts
+# Sobre o Projeto 
 
-In the project directory, you can run:
+Covid Daily Cases é um desafio proposto pela [Coodesh](https://coodesh.com/). É um programa que mostra um mapa de onde se obtém os dados do número de casos de Covid-19 por país e por data.
 
-### `npm start`
+## Link
+[Link](https://challenge-covid-daily.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Desafio
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    * = não foi implementado
 
-### `npm test`
+- [x] `Obrigatório 1` → Seguir o wireframe para a página de listagem dos dados. 
+- [x] `Obrigatório 2` → Deve conter uma opção para alterar entre as datas disponíveis.
+- [ ] `Obrigatório 3` → Select que seja possível escolher entre exibir os dados de uma data ou os dados acumulados até aquela data. 
+- [x] `Obrigatório 4` → Passar o mouse sobre um país, exibe seu nome e a quantidade de casos * (de cada variante registrados naquela data).
+- [ ] `Diferencial 1` → Escrever Unit Tests ou E2E Test. Escolher a melhor abordagem e biblioteca.
+- [ ] `Diferencial 2` → Configurar Docker no Projeto para facilitar o Deploy da equipe de DevOps.
+- [ ] `Diferencial 3` → Colocar na URL os parametros utilizados na busca, para que seja possível compartilhar a URL.
+- [ ] `Diferencial 4`→ Implementar SSR no projeto.
+- [x] `Diferencial 5`→ Adicionar um botão de "play" para exibir a evolução das dados automaticamente.
+- [x] `Diferencial 6`→ Publique o projeto em alguma plataforma, como por exemplo a [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/) ou outra.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Website
+### Página Inicial
+![inicialPage](https://user-images.githubusercontent.com/94663972/173931319-b6eb8146-21c7-4329-865b-7fc519eb0a4a.png)
+### Map
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## List with language, framework and/or technologies used
+<ul>
+	<li>HTML, CSS AND JAVASCRIPT</li>
+	<li>React</li>
+	<li>Route System</li>
+	<li>Styled-Components</li>
+	<li>React Simple Maps</li>
+</ul>
+ 
+## IDE
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Visual Studio Code
 
-### `npm run eject`
+## Como instalar o projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 1 - Clonar o repositório
+	- git clone https://github.com/matheuscastro77/Challenge-Covid-Daily.git
+## 2 - Instalar as dependências
+  - npm install      
+## 3 - Iniciar o projeto
+	- npm run start
