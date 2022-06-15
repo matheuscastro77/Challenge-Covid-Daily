@@ -20,7 +20,7 @@ const Home = () => {
       Get results by region and time period. 
       A fully functional and specific system
       </H2>
-      <Button onClick={() => navigate('/dashboard') ()}>Acess</Button>
+      <Button onClick={() => navigate('/map') ()}>Acess</Button>
       </Tittle>
       
       </Container>
