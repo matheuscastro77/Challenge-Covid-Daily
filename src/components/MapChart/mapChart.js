@@ -64,7 +64,7 @@ function MapChart({ setTooltipContent }) {
 
   useEffect(() => {
     getInfo()
-  }, []);
+  }, [date]);
 
 
 
