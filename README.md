@@ -34,7 +34,7 @@ Covid Daily Cases Ã© um desafio proposto pela [Coodesh](https://coodesh.com/). Ã
 ![map](https://user-images.githubusercontent.com/94663972/173970374-2a36295a-ef6a-41c9-a6e3-008c65975aa8.png)
 
 
-## List with language, framework and/or technologies used
+## Lista com linguagens, framework e/ou tecnologias usadas
 <ul>
 	<li>HTML, CSS AND JAVASCRIPT</li>
 	<li>React</li>
