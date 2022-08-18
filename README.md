@@ -3,6 +3,7 @@
 </h2>
 
 ## Projeto Individual
+## O mapa estava offline no dia 18/08/2022
 
 # Sobre o Projeto 
 
